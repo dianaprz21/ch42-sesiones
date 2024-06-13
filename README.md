@@ -1,2 +1,2 @@
 # ch42-sesiones
-Sesiones del Bootcamo de Generation MX, Cohorte 42.
+Sesiones del Bootcamp de Generation MX, Cohorte 42.
